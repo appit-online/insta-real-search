@@ -1,7 +1,7 @@
 {
-  "name": "insta-search",
+  "name": "insta-real-search",
   "version": "1.0.0",
-  "description": "Search posts and reels on Insta without API or Cookie key",
+  "description": "Search and download posts, reels,.. on Insta without API or Cookie key",
   "main": "lib/index.js",
   "type": "module",
   "types": "lib/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appit-online/insta-search.git"
+    "url": "git+https://github.com/appit-online/insta-real-search.git"
   },
   "keywords": [
     "instagram",
@@ -42,9 +42,9 @@
     "lib/**/*"
   ],
   "bugs": {
-    "url": "https://github.com/appit-online/insta-search/issues"
+    "url": "https://github.com/appit-online/insta-real-search/issues"
   },
-  "homepage": "https://github.com/appit-online/insta-search#readme",
+  "homepage": "https://github.com/appit-online/insta-real-search#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "@types/node": "^24.0.7",
