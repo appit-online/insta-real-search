@@ -1,4 +1,4 @@
-# [insta-real-search: Node.js](https://github.com/appit-online/insta-real-search)
+# [insta-reel-search: Node.js](https://github.com/appit-online/insta-reel-search)
 
 Search & Download reels, posts,... on Instagram without API key or Cookie
 
@@ -16,13 +16,13 @@ Search & Download reels, posts,... on Instagram without API key or Cookie
 ### Installing the library
 
 ```bash
-npm install insta-real-search --save
+npm install insta-reel-search --save
 ```
 
 ### Using the library
 
 ```javascript
-import * as insta from 'insta-real-search';
+import * as insta from 'insta-reel-search';
 
 /**
  * Given a search query, searching on insta
@@ -68,4 +68,4 @@ console.log(videos);
 
 Apache Version 2.0
 
-See [LICENSE](https://github.com/appit-online/insta-real-search/blob/master/LICENSE)
+See [LICENSE](https://github.com/appit-online/insta-reel-search/blob/master/LICENSE)
